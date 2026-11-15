@@ -7,5 +7,4 @@ Hi there 👋
 - 🔭 I’m almost finished with the designs for my MA Capstone project, [NEURⓘSPICY](https://github.com/natisdale/magwd-capstone)
 - 🤔 Looking to line up design work for after I graduate from [MCAD](https://www.mcad.edu) in December.
 - 💬 Ask me why I believe good design processes are provide more ROI than software testing
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know Figma Styles can't use variable modes? The Style will treat the first value as static, and switching modes won't update when the mode is changed.
